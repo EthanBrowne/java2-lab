@@ -1,0 +1,5 @@
+/.checkstyle
+/.pmd
+.DS_Store
+/bin/
+/registrar.properties

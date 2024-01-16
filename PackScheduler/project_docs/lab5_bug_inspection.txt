@@ -1,0 +1,3 @@
+* RegistrationManager.java
+- Line 76, 111, 112: Spotbugs (Read of unwritten field studentDirectory) | Status: Not Completed
+	- Solution: Initialize the fields being dereferenced in the private constructor of the class.
